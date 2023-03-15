@@ -1,3 +1,2 @@
 #!/bin/bash
-echo RESULT=$(($BREATH ^ $LOVE))
-RESULT
+echo $(($BREATH ^ $LOVE))
